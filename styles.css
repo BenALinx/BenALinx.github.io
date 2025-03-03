@@ -3,6 +3,7 @@ body {
 }
 
 h1 {
+    border: 2px salmon;
     color: slategray;
 }
 
