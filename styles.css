@@ -51,3 +51,9 @@ p {
     background-color: #04AA6D;
     color: white;
   }
+
+  .container {
+    display: grid;
+    column-gap: 50px;
+    row-gap: 50px;
+  }
